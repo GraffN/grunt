@@ -1,0 +1,27 @@
+{
+  "name": "aw_24_workflow_2",
+  "version": "1.0.0",
+  "description": "first grunt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GraffN/grunt.git"
+  },
+  "author": "Jørgen Graff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GraffN/grunt/issues"
+  },
+  "homepage": "https://github.com/GraffN/grunt#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^3.1.0",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
